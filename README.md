@@ -12,3 +12,4 @@ What I learned:
 Basic string manipulation.
 Nested for loops.
 Reorganising arrays.
+Importing and using libraries.
